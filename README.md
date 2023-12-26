@@ -1,4 +1,21 @@
-### Hi there 👋
+# Hi there 👋
+
+
+## About Me 💬
+
+- 🔭 I’m a senior student of Nankai University
+- 🌱 I’m studying in Software College of NKU
+- ⚡ My current researching intersets are Investment Behavior and FinTech
+<!-- - 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ... -->
+
+## Contact Me 📫
+
+You can contact me at sy20021134@gmail.com or 2111438@mail.nankai.edu.cn
+
 
 <!--
 **Thoams0211/Thoams0211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
