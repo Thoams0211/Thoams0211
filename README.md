@@ -3,8 +3,8 @@
 
 ## About Me 💬
 
-- 🔭 I’m a senior student of Nankai University
-- 🌱 I’m studying in Software College of NKU
+- 🔭 I am pursuing a Master's degree at Zhejiang University
+- 🌱 My research interests include large models and representation learning
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -13,7 +13,7 @@
 
 ## Contact Me 📫
 
-You can contact me at sy20021134@gmail.com or 2111438@mail.nankai.edu.cn
+You can contact me at sy20021134@gmail.com or yidansun@zju.edu.cn
 
 
 <!--
